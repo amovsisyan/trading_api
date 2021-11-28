@@ -36,6 +36,8 @@ $ yarn migrate
 ## Running the app
 
 Do not forget to configure your DB before head.
+Do not forget to copy env example to .env and set credentials
+
 
 ```bash
 # development
